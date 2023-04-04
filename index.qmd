@@ -1,4 +1,10 @@
 ---
 title: "HCS7003 Guest Lecture"
+subtitle: "'Command-line Genomics'"
+date: 2023-04-04
 toc: false
 ---
+
+<br>
+
+### [Click here to view the presentation](presentation.qmd)

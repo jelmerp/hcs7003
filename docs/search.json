@@ -12,5 +12,12 @@
     "title": "Command-line genomics",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nAnd the most common Unix shell is the Bash shell, which runs the Bash language.↩︎\nBut for large transfers, use a different interface: Globus↩︎\nfull list of installed software: https://www.osc.edu/resources/available_software/software_list↩︎\nWhile there are also command-line text editors, these make the learning curve for command-line genomics even steeper.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HCS7003 Guest Lecture",
+    "section": "",
+    "text": "Click here to view the presentation"
   }
 ]
