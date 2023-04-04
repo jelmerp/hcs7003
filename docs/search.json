@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Command-line genomics",
+    "section": "",
+    "text": "Today, I will give an overview of the typical computational environment infrastructure used for genomics projects.\nMost of this can be summarized as “command-line genomics”, and I will explain what this entails, and why you need the command line.\n\nOf course, I won’t have time to teach you the different components, but I would like to orient you on this topic so that it’s not as much of a black box.\nThis will hopefully give you a starting point for learning more – and I will point you to some specific resources as well."
+  },
+  {
+    "objectID": "presentation.html#footnotes",
+    "href": "presentation.html#footnotes",
+    "title": "Command-line genomics",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAnd the most common Unix shell is the Bash shell, which runs the Bash language.↩︎\nBut for large transfers, use a different interface: Globus↩︎\nfull list of installed software: https://www.osc.edu/resources/available_software/software_list↩︎\nWhile there are also command-line text editors, these make the learning curve for command-line genomics even steeper.↩︎"
+  }
+]

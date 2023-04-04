@@ -4,7 +4,7 @@ project:
 
 website:
   title: "HCS7003 Guest lecture"
-  repo-url: https://github.com/mcic-osu/cl-workshop-22
+  repo-url: https://github.com/jelmerp/hcs7003
   repo-actions: [issue]
   navbar:
     left:
