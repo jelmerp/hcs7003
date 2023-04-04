@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "HCS7003 Guest lecture"
+  repo-url: https://github.com/mcic-osu/cl-workshop-22
+  repo-actions: [issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: presentation.qmd
+        text: Presentation
+
+format:
+  html:
+    theme:
+      light: lumen
+      dark: darkly
+    css: styles.css
