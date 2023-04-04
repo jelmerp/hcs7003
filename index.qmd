@@ -8,3 +8,5 @@ toc: false
 <br>
 
 ### [Click here to view the presentation](presentation.qmd)
+
+([Or click here to see/download a PDF version](https://github.com/jelmerp/hcs7003/blob/main/HCS7003%20Guest%20lecture%20-%20Command-line%20genomics.pdf))
